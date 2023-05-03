@@ -6,6 +6,6 @@ Goal: The performance of a stock/share of a business solely depends on the finan
 
 Details of the Work:
 
-* Collected financial data from the NSE webpage
+* Collected financial data from the NSE (National Stock Exchange) webpage
 * Data cleaning using Python
 * Python has been used to define Financial Parameters and Matplotlib for visualization.
